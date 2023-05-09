@@ -1,4 +1,4 @@
-const API_KEY = '4f8a8a2bb4f9451ba40111651230705';
+const API_KEY = ''; // your api
 let CITY = document.querySelector('.box #input');
 const validate = Boolean(CITY) && (CITY !== undefined);
 // www.weatherapi.com
